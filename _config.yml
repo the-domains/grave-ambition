@@ -1,0 +1,28 @@
+name: Grave Ambition
+favicon: null
+layout_spectrum: 0.03007877361960709
+typography_spectrum: 0.6175191670190543
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7308672778308392
+  lightness: 0.2770659918896854
+  saturation: 0.8084809903521091
+  rhythmicContrast: 0.28024797490797937
+purpose: []
