@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Grave Ambition]]></title>
         <description><![CDATA[Grave Ambition]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grave-ambition/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 11:00:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 11:02:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grave-ambition/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/grave-ambition/85c21dd2-0775-40eb-b3f5-1fcc61fb263d/index.html</link>
+            <guid isPermaLink="false">85c21dd2-0775-40eb-b3f5-1fcc61fb263d</guid>
+            <pubDate>Fri, 15 Jan 2016 11:02:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b2723c1-d003-448f-b142-a3e53e60b2b2.png">]]></description>
-            <link>undefined7ae3e391-72f9-4572-9e7e-d8419e9c2850/index.html</link>
+            <link>https://thegrid.ai/grave-ambition/7ae3e391-72f9-4572-9e7e-d8419e9c2850/index.html</link>
             <guid isPermaLink="false">7ae3e391-72f9-4572-9e7e-d8419e9c2850</guid>
             <pubDate>Fri, 15 Jan 2016 10:59:35 GMT</pubDate>
         </item>
