@@ -1,7 +1,7 @@
 name: Grave Ambition
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.20232
+layout_spectrum: 0.49725
+typography_spectrum: 0.72464
 title: Grave Ambition
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#4b2e4b'
-    - '#f7f361'
-    - '#f089a0'
-    - '#2eecdb'
-    - '#e6c6e5'
-  brandStrength: 0.1875
+    - '#545452'
+    - '#030708'
+    - '#929290'
+    - '#ce2127'
+    - '#612a23'
+  brandStrength: 1
   lightness: 0.3125
-  saturation: 0.25
-  rhythmicContrast: 0.75
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
